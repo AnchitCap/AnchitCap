@@ -1,6 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/AnchitCap/AnchitCap/blob/master/devcard.svg" width="400" alt="Anchit Srivastava's Dev Card"/></a>
-![alt text](https://github.com/AnchitCap/AnchitCap/blob/master/devcard.svg?raw=true)
+![devcard](devcard.svg)
 
 <!--
 **AnchitCap/AnchitCap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
