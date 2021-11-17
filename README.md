@@ -2,9 +2,9 @@
 <!--aka [codeSTACKr][website] 👋 
 -->
 
-- 💬 I am a graduate student at New York University
-- 🔭 I’m currently working on a data science project
-- 🌱 I’m currently learning data structures and algorithms
+- 💬 I am a graduate student at New York University 
+- 🔭 I’m currently working on a data science project about real estaate price prediction for NYC
+- 🌱 I’m currently learning data structures and algorithms -[my leetcode progress][leetcode]
 - ⚡  I'm looking for software / data engineer oppurtunities 
 
 <br />
@@ -29,6 +29,7 @@
 [twitter]: https://twitter.com/Anchit1202
 [linkedin]: https://www.linkedin.com/in/anchit-srivastava
 [mailto]: mailto:anchit.cap@gmail.com
+[leetcode]: https://leetcode.com/AnchitCap/
 
 
 <!--
