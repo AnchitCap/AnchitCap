@@ -19,6 +19,8 @@
 
 <br/>
 
+## A card that shows the articles I read about development.
+
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/AnchitCap/AnchitCap/blob/main/devcard.svg" width="250" alt="Anchit Srivastava's Dev Card"/></a>
 
 
