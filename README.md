@@ -17,6 +17,8 @@
 
 <br />
 
+<br/>
+
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/AnchitCap/AnchitCap/blob/main/devcard.svg" width="250" alt="Anchit Srivastava's Dev Card"/></a>
 
 
