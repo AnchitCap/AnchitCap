@@ -14,6 +14,7 @@
 [<img align="left" alt="Portfolio" width="22px" src="https://cdn.icon-icons.com/icons2/1103/PNG/512/portfolio_78923.png" />][portfolio]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Email" width="22px" src="https://cdn.icon-icons.com/icons2/656/PNG/512/mail_email_message_electronic_online_web_icon-icons.com_59986.png" />][mailto]
 
 <br />
 
@@ -27,6 +28,7 @@
 [portfolio]: https://rebrand.ly/anchit-portfolio
 [twitter]: https://twitter.com/Anchit1202
 [linkedin]: https://www.linkedin.com/in/anchit-srivastava
+[mailto]: mailto:anchit.cap@gmail.com
 
 
 <!--
