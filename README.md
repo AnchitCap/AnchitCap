@@ -2,10 +2,10 @@
 <!--aka [codeSTACKr][website] 👋 
 -->
 
-- 💬 I am a graduate student at New York University 
-- 🔭 I’m currently working on a data science project about real estaate price prediction for NYC
-- 🌱 I’m currently learning data structures and algorithms -[my leetcode progress][leetcode]
-- ⚡  I'm looking for software / data engineer oppurtunities 
+- 💬 Graduate student at New York University 
+- 🔭 Currently working on a data science project about prediction of delays in air flights
+- 🌱 Currently learning data structures and algorithms -[my leetcode progress][leetcode]
+- ⚡  Looking for software / data engineer oppurtunities 
 
 <br />
 
